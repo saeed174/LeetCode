@@ -17,4 +17,16 @@
 | [0596-classes-with-at-least-5-students](https://github.com/saeed174/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/saeed174/LeetCode/tree/master/0607-sales-person) |
 | [1179-game-play-analysis-i](https://github.com/saeed174/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
