@@ -37,6 +37,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saeed174/LeetCode/tree/master/0069-sqrtx) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saeed174/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saeed174/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +104,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/saeed174/LeetCode/tree/master/0207-course-schedule) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
