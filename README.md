@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
+| [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saeed174/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
+| [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
@@ -112,4 +114,16 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Greedy
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+## Sorting
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 <!---LeetCode Topics End-->
