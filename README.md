@@ -26,6 +26,7 @@
 | [1174-sales-analysis-iii](https://github.com/saeed174/LeetCode/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/saeed174/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1179-reformat-department-table](https://github.com/saeed174/LeetCode/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/saeed174/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/saeed174/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/saeed174/LeetCode/tree/master/1258-article-views-i) |
 ## Hash Table
