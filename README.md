@@ -31,18 +31,21 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saeed174/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saeed174/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saeed174/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saeed174/LeetCode/tree/master/0069-sqrtx) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saeed174/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/saeed174/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/saeed174/LeetCode/tree/master/0020-valid-parentheses) |
