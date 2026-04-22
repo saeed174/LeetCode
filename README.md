@@ -68,6 +68,7 @@
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saeed174/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saeed174/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saeed174/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saeed174/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
