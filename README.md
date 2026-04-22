@@ -49,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/saeed174/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/saeed174/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0070-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saeed174/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
