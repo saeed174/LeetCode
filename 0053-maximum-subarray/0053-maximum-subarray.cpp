@@ -1,38 +1,43 @@
 class Solution {
 public:
-    int maxCrossingSum(vector<int>& nums, int left, int mid, int right) {
+    int middleSubArray(vector<int>& nums , int l , int m , int h)
+    {
         int sum = 0;
-        int leftSum = INT_MIN;
-
-        for (int i = mid; i >= left; i--) {
+        int maxleft = -100001;
+        for(int i = m ; i >= 0 ; i--)
+        {
             sum += nums[i];
-            leftSum = max(leftSum, sum);
+            maxleft = max(maxleft , sum);
         }
 
         sum = 0;
-        int rightSum = INT_MIN;
-
-        for (int i = mid + 1; i <= right; i++) {
+        int maxright = -100001;
+        for(int i = m+1 ; i <= h ; i++)
+        {
             sum += nums[i];
-            rightSum = max(rightSum, sum);
+            maxright = max(maxright , sum);
         }
 
-        return leftSum + rightSum;
-    }
-
-    int solve(vector<int>& nums, int left, int right) {
-        if (left == right)
-            return nums[left];
-
-        int mid = (left + right) / 2;
-
-        int leftMax = solve(nums, left, mid);
-        int rightMax = solve(nums, mid + 1, right);
-        int crossMax = maxCrossingSum(nums, left, mid, right);
-
-        return max({leftMax, rightMax, crossMax});
+        return maxright + maxleft;
     }
     int maxSubArray(vector<int>& nums) {
-        return solve(nums, 0, nums.size() - 1);
+        if(nums.size() == 1)
+        {
+            return nums[0];
+        }
+
+        int i = 0;
+        int j = nums.size() - 1;
+        int mid = (i+j)/2;
+
+        vector<int> leftnums(nums.begin() , nums.begin() + mid+1);
+        int left = maxSubArray(leftnums);
+
+        vector<int> rightnums(nums.begin() + mid+1, nums.end());
+        int right = maxSubArray(rightnums);
+
+        int middle = middleSubArray(nums , i , mid , j);
+
+        return max(middle , max(left,right));
     }
 };
