@@ -69,6 +69,7 @@
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saeed174/LeetCode/tree/master/0053-maximum-subarray) |
+| [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saeed174/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -135,6 +136,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
