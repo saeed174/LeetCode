@@ -69,6 +69,7 @@
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saeed174/LeetCode/tree/master/0053-maximum-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/saeed174/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/saeed174/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0070-climbing-stairs) |
+| [0746-min-cost-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
