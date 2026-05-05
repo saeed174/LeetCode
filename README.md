@@ -70,6 +70,7 @@
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saeed174/LeetCode/tree/master/0053-maximum-subarray) |
 | [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/saeed174/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saeed174/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -137,10 +138,12 @@
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/saeed174/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Sorting
 |  |
 | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/saeed174/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1338-reduce-array-size-to-the-half](https://github.com/saeed174/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 ## Heap (Priority Queue)
 |  |
