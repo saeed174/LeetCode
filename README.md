@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/saeed174/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/saeed174/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saeed174/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
