@@ -48,6 +48,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/saeed174/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saeed174/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/saeed174/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saeed174/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0070-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/saeed174/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -69,6 +70,7 @@
 | [0027-remove-element](https://github.com/saeed174/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saeed174/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/saeed174/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saeed174/LeetCode/tree/master/0066-plus-one) |
 | [0746-min-cost-climbing-stairs](https://github.com/saeed174/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/saeed174/LeetCode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/saeed174/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
